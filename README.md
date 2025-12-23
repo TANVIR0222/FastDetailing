@@ -6,15 +6,17 @@ A comprehensive mobile business management application built with React Native a
 
 <img width="320" height="570" alt="Splash (1)" src="https://github.com/user-attachments/assets/23cff2fa-3e96-42ba-b0b5-5af2ffd85dba" />
 
+<img width="320" height="570" alt="Home (1)" src="https://github.com/user-attachments/assets/09bc188a-86ef-4aba-8af0-dc86553c01a5" />
+
+<img width="320" height="570" alt="Invite Employee" src="https://github.com/user-attachments/assets/96bb7ee5-4dde-4670-9b3f-04992e628cbc" />
+
 <img width="320" height="570" alt="Payments" src="https://github.com/user-attachments/assets/15dde428-67c8-4031-bd3c-2ea1ce141123" />
 
 <img width="320" height="570" alt="Payment Request" src="https://github.com/user-attachments/assets/66dad097-afff-4b7f-8f43-7e92c0832f78" />
 
 <img width="320" height="570" alt="Stats" src="https://github.com/user-attachments/assets/74621ff7-958f-4558-943d-5585876b21e8" />
 
-<img width="320" height="570" alt="Home (1)" src="https://github.com/user-attachments/assets/09bc188a-86ef-4aba-8af0-dc86553c01a5" />
 
-<img width="320" height="570" alt="Invite Employee" src="https://github.com/user-attachments/assets/96bb7ee5-4dde-4670-9b3f-04992e628cbc" />
 
 
 
